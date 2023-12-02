@@ -1,0 +1,63 @@
+/* p{ 
+    color: black;
+    background-color: grey;
+
+} */
+
+/* <!-- Css Transform 2D Property --> */
+/* div {
+  width: 250px;
+  height: 200px;
+  text-align: center;
+  background-color: yellow;
+  border: 1px solid black;
+  border-radius: 12px;
+
+  /* transform: translateX(00px); */
+/* transform: translateY(100px); */
+/* transform-origin: 0; */
+/* transform: rotate(0.5turn); */
+/* transform: rotate(45deg);  X And Y bhi set kar sakte ha */
+/* transform: scale(2,3);  X And Y bhi set kar sakte hai */
+/* transform: skew(20deg); X  And Y bhi set kar sakte hai */
+/* } */
+
+/* <!-- CSS Tranform 3D Property --> */
+/* img {
+  display: block;
+     margin: auto;
+} */
+/* div {
+  width: 300px;
+  height: 200px;
+  background-color: yellow;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 2px 2px #ff0000;
+  border: 3px solid grey;
+  margin-top: 200px;
+  margin-left: 200px; */
+
+/* transform: rotateX(120deg); */
+/* transform: rotateY(150deg); */
+/* transform: rotateZ(300deg); */
+/* } */
+
+/* CSS Transition Property  */
+/* div{
+        width: 1000px;
+        height: 200px;
+        background-color: grey; */
+
+/* transition: ;  sorthand property ye hai*/
+/* transition-property: all;  sub ko set karti hai aisa ye */
+/* transition-duration: 4s; */
+/* transition-timing-function:  ease; */
+/* transition-delay: 3s; */
+
+/* div:hover{
+            width: 50px;
+        } */
+
+/* } */
