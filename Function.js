@@ -108,6 +108,7 @@
 //        },2000)
 //        console.log("Last Execution");
 
+
 //call apply bind  Method?
 //Call Example Ye?
 //function about(hobby,favourite){ //Aisa Bhi kar sakte hai
@@ -177,21 +178,21 @@
 
 //Arrow Function This Keyword Nots Suppot Output get Undefind ? Arrow function ka this nhi hota hai arrow function jo this leta hai o serounding se leta hai means window se leta hai or arrow function ke this ko ham change nhi kar sakte hai?
 
-// let user1 = {
-//   name : "Tausif",
-//   age : 24,
-//   perpertion : "Software Engineering",
+let user1 = {
+  name : "Tausif",
+  age : 24,
+  perpertion : "Software Engineering",
 
 // about:function(){
 //   console.log(this.name, this.perpertion) // but this anonymus function
 // }
 
-//   about: ()=>{
-//     console.log(this)   //arrow function ka this window hota hai
-//    // console.log(this.name, this.perpertion)  //Arrow Function Me This Ki value Undefind Ati hai
-//   }
-// }
-// user1.about()
+  about: ()=>{
+    console.log(this)   //arrow function ka this window hota hai
+//    console.log(this.name, this.perpertion)  //Arrow Function Me This Ki value Undefind Ati hai
+  }
+}
+user1.about()
 
 //Short Method  function banane ka tarika  ?
 //  let useer1 = {
