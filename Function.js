@@ -35,6 +35,8 @@
 // let fun = twoSum()
 // console.log(fun)
 
+
+
 //Block And Function Scope
 //Let and const block scope
 //Var Function scope?
@@ -93,12 +95,16 @@
 // const adding = (deflt(1,));
 //  console.log(adding)
 
-//function defien string ke kon  se index pe kya hai word?
-// function firstchar(anystring) {
-//   return anystring[2];
-// }
-// let retu = (firstchar('tausif'));
-//  console.log(retu)
+// function defien string ke kon  se index pe kya hai word?
+function firstchar(anystring) {
+  return anystring[1];
+}
+let retu = (firstchar('tausif'));
+ console.log(retu);
+
+
+
+
 
 //Settimeout Function Example ?
 //    console.log("First Execution");
