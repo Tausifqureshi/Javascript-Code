@@ -24,7 +24,7 @@
 // if(!response.ok){ // respons is ka nhi sahi to error ara hai us se hi handler kar re hai
 // throw new Error("Someting Error");         //error handler hora yaha se run hoga catch wala code
 // }
-//    const data = await response.json()    //promies retun karta hai ye json bhi data mile ga
+// const data = await response.json()    //promies retun karta hai ye json bhi data mile ga
 // console.log(response);
 // console.log(data)       //data mil ra hai is se
 // return data;   //data nhi promis return hora pura
